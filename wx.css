@@ -1,0 +1,50 @@
+ @-moz-document domain("wx2.qq.com") {
+    .panel.give_me{background:#dee1e6}
+    #chatArea{background:#dee1e6;}
+    .bubble{background:transparent!important;}
+    .bubble_cont .plain{padding:10px!important}
+    .you .bubble_cont{border:1px solid #eeeeee;border-radius:0 5px 5px 5px;}
+    .me .bubble_cont{background:#1e9fff;border-radius:5px 0 5px 5px;color:white;}
+    .dropdown_menu a{border-bottom:0!important;padding:3px 10px!important}
+    .tab{display:none;}
+    .nav_view{top:120px!important;color:black}
+    .search_bar{margin:5px;margin-right: 7px;}
+    .search_bar input{font-size:1em!important;width:240px!important;background:white!important;border-radius:7px!important;color:black!important;}
+    .web_wechat_search{filter:invert(1)}
+    .header *{color:black!important}
+    .chat_item{border-bottom:none!important;}
+    .chat_item *{color:black!important;}
+    .chat_item.active{border-radius:7px 0 0 7px;background:white!important;margin-left:5px;padding-left:13px;}
+    .bubble::after{display:none!important}
+    .me .attach{background:#1e9fff;}
+    .sep{display:none}
+    .me a.ng-scope{background:white;color:#1e9fff!important;padding:3px 8px;border-radius:3px;margin-left:10px;}
+    .ng-binding[ng-bind^="message.FileName"]{font-size:1.3em;}
+    img{border-radius:5px!important}
+    *{outline:none;cursor:default!important}
+    .title_wrap{background:#dee1e6!important;text-align:left;margin:0!important;padding:10px 10px!important;border:0!important}
+    .members{background:white!important;}
+    #mmpop_chatroom_members{border-radius:10px 0 0 0!important;overflow:hidden;}
+    body{background:#93d1ff!important;user-select:none}
+    .copyright{display:none}
+    .btn_send{background:#1e9fff;transition:all .2s;border:0;color:white}
+    .btn_send:hover{background:#0093ff!important}
+    .btn_send:active{color:#c4e6ff!important}
+    .desc.ng-scope{display:none}
+    .ext,.msg{opacity:.5}
+    .box_ft{margin:0!important;padding-right:10px;}
+    #editArea{height:6.8em}
+    .web_wechat_screencut{display:none;}
+    #tool_bar{opacity:.6}
+    .main{padding-top:0;height:100%;width:100vw;}
+    .main_inner{width:100vw!important;max-width:unset;max-height:unset}
+    .lang,.download_entry{display:none}
+    .scroll-wrapper.box_bd.chat_bd.scrollbar-dynamic{border-radius:10px 0 0 0;background:white}
+    .box_ft.ng-scope{background:white!important;display:block!important}
+    .search_bar .mmpop{box-sizing:border-box;background:white;border-radius:7px!important;overflow:hidden;width:270px!important;border:1px solid #d5d5d5;box-shadow:none;}
+    .contact_title{background:#eeeeee!important}
+    .contact_item{background:white!important;border-bottom:1px solid #eeeeee!important;}
+    .contact_item *{color:black!important}
+    .contact_item.on{background:#f7f7f7!important;}
+    .ngdialog .contact_title{background:white!important;border-bottom:1px solid #eeeeee;}
+}
