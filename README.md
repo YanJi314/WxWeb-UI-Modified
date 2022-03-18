@@ -2,6 +2,9 @@
 
 使用自定义CSS优化微信网页版的过时UI
 
+# 效果预览
+![Preview](https://asset.simsoft.top/preview.png)
+
 # 使用方法
 
 - 首先确保您可以正常登录[微信网页版](https://wx2.qq.com)；如果提示当前账户不能登录网页版则此项目对您无效，**我没有相应解决方法**。
