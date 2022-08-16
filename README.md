@@ -2,6 +2,8 @@
 
 使用自定义CSS优化微信网页版的过时UI
 
+# （有个泄作者弃坑了）
+
 # 效果预览
 ![Preview](https://asset.simsoft.top/preview.png)
 
